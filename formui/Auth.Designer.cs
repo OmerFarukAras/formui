@@ -196,8 +196,8 @@
             // 
             // Auth
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
-            AutoScaleMode = AutoScaleMode.Font;
+            //AutoScaleDimensions = new SizeF(7F, 15F);
+            //AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(900, 635);
             Controls.Add(mainPanel);
             FormBorderStyle = FormBorderStyle.None;
